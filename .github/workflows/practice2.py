@@ -1,5 +1,6 @@
-n="tom"
-p='garry'
+n = "tom"
+p = 'garry'
 
-r=n+p
+r = n + p
+
 print(r)
